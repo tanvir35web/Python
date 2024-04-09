@@ -1,3 +1,5 @@
+#student marks grading  detection system
+
 marks = int(input("Enter Your Marks : "))
 
 if marks >= 90 and marks <=100:
